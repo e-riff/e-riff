@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=4300&pause=800&color=611BF7&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Hello+Everyone%2C+welcome+to+my+repo+!;Web%2C+stage%2C+arduino...+)](https://git.io/typing-svg)
 
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/e-riff/e-riff/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/e-riff/)
+
 <!--
 **e-riff/e-riff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
